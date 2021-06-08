@@ -1,0 +1,62 @@
+/*NavBar*/
+.font{
+    font-size: 18px;
+    font-weight: 700;
+    color: #6D78FE;
+}
+
+
+.logo{
+    width: 70px;
+}
+
+
+.titre{
+    font-weight: bold;
+    color: #6D78FE;
+}
+.titre1{
+    font-weight: bold;
+    color: #9090EF;
+}
+.ecri{
+    font-weight: bold;
+    color: rgb(104, 104, 104);
+    font-size: 25px;
+}
+.link{
+    font-weight: bold;
+    color: #9090EF;
+}
+.flotte {
+    float:left;
+    }
+.taille{
+    width: 500px;
+}
+
+    .but3{
+        background-color: rgb(255, 89, 89) !important;
+        border-color: rgb(255, 89, 89);
+        color: white !important;
+    }
+.co{
+    display: flex;
+    flex-direction: column;
+}
+.container{
+    justify-content: space-evenly;
+    display: flex;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.bloc{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    margin-top: 20px;
+}
+
+
+
